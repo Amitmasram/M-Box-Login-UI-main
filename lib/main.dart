@@ -66,7 +66,7 @@ class MyApp extends StatelessWidget {
             ),
             const Center(
                 child: Text(
-              'Welcome here, \nplease enter your key',
+              'Welcome here, \nplease enter your authentication',
               textAlign: TextAlign.center,
               style: TextStyle(
                   fontSize: 16,
